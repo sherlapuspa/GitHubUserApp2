@@ -1,0 +1,22 @@
+<resources>
+    <string name="btn_share">Button Share</string>
+    <string name="username">UsernameGithub</string>
+    <string name="btn_prev">Button Prev</string>
+    <string name="name_app">Github User App</string>
+    <string name="favMenu">Your Favorite User</string>
+    <string name="tabLayout2">FOLLOWING</string>
+    <string name="tabLayout1">FOLLOWERS</string>
+    <string name="setMenu">Theme Setting</string>
+    <string name="tab_2">Following</string>
+    <string name="tab_1">Followers</string>
+    <string name="tvFavUser">Your Favorite User</string>
+    <string name="tvThemeSetting">Theme Setting</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="hint_for_search">Find by Username</string>
+    <string name="followers">0 Followers</string>
+    <string name="following">0 Following</string>
+    <string name="user_item_list">User Github:</string>
+    <string name="user_name">Name</string>
+    <string name="url_user">Github.com/username</string>
+    <string name="btn_search">Button Search</string>
+</resources>

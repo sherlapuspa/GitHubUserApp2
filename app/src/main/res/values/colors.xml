@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textNight">#000000</color>
+    <color name="colorVariant">#643CA5</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="colorSecondary">#BC56CD</color>
+    <color name="colorOnPrimary">#F6F6F6</color>
+    <color name="black">#191919</color>
+    <color name="colorPrimary">#4C2253</color>
+    <color name="transparent">#00111827</color>
+    <color name="white">#F6F6F6</color>
+</resources>

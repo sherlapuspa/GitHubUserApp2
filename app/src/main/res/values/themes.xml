@@ -1,0 +1,51 @@
+<resources>
+    <style name="Base.Theme.GitHubUserApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/colorSecondary</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorOnPrimary</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="strokeColor">@color/colorOnPrimary</item>
+        <item name="color">@color/colorPrimary</item>
+    </style>
+
+    <style name="sansserifThin">
+        <item name="fontFamily">sans-serif-thin</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+    <style name="sansserifLight">
+        <item name="fontFamily">sans-serif-light</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+    <style name="sansserif">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+    <style name="sansserifMedium">
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+    <style name="sansserifCondensedLight">
+        <item name="fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+    <style name="sansserifCondensedMedium">
+        <item name="fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+    <style name="sansserifCondensed">
+        <item name="fontFamily">sans-serif-condensed</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+    <style name="sansserifBlack">
+        <item name="fontFamily">sans-serif-black</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+    <style name="Theme.GitHubUserApp" parent="Base.Theme.GitHubUserApp" />
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textSize">18sp</item>
+        <item name="titleTextColor">@color/colorPrimary</item>
+        <item name="fontFamily">sans-serif-condensed-medium</item>
+    </style>
+
+</resources>
